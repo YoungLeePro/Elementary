@@ -4,6 +4,8 @@ package young.lee.elementary.oop;
  * @USER: Young
  * @DATETIME: 2020/7/15
  * @DESCRIPTION: java的三大特性之多态：Polymorphism
+ * 多态前提：封装、继承、父类型引用指向子类型
+ *
  **/
 public class PolymorphismClass {
 
